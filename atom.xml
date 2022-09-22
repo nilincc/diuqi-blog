@@ -6,7 +6,7 @@
   <link href="https://blog.diuqi.net/atom.xml" rel="self"/>
   
   <link href="https://blog.diuqi.net/"/>
-  <updated>2021-01-10T11:08:18.968Z</updated>
+  <updated>2022-09-22T15:51:29.553Z</updated>
   <id>https://blog.diuqi.net/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>重装了电脑系统又重新安装了hexo</title>
+    <link href="https://blog.diuqi.net/2022/09/22/22/"/>
+    <id>https://blog.diuqi.net/2022/09/22/22/</id>
+    <published>2022-09-22T15:48:47.000Z</published>
+    <updated>2022-09-22T15:51:29.553Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>重新安装了电脑系统，也同时又安装了hexo。<br>现在在全新的系统上又开始要折腾了，哎！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="有感而说" scheme="https://blog.diuqi.net/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E8%AF%B4/"/>
+    
+    
+    <category term="随笔" scheme="https://blog.diuqi.net/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -513,31 +537,6 @@
     
     
     <category term="Gravatar头像" scheme="https://blog.diuqi.net/tags/Gravatar%E5%A4%B4%E5%83%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>熬夜带给我的体验</title>
-    <link href="https://blog.diuqi.net/2021/01/09/6/"/>
-    <id>https://blog.diuqi.net/2021/01/09/6/</id>
-    <published>2021-01-09T06:50:58.000Z</published>
-    <updated>2021-01-09T07:03:06.164Z</updated>
-    
-    <content type="html"><![CDATA[<p>最近因为新馆肺炎的疫情，基本上让我找到了年初那会封村封路的状态，所以在晚上玩手机或者电脑的时候，基本上是不看时间了，等想起来看时间的时候，基本都是后半夜三四点了！</p><p>然后马上想着睡觉，但是那会儿是不可能马上就能进入睡眠状态的，所以导致第二天，一天是没有精神状态的，就是那种浑浑噩噩的感觉，对任何事情都提不起精神来了，并且对任何事也表现的提不起兴趣来了。</p><p>这种感觉简直是太难受了！！！！</p><blockquote><p>从今晚上起一定要早睡早起，不然面对任何事情都没有精神状态了。</p></blockquote>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;最近因为新馆肺炎的疫情，基本上让我找到了年初那会封村封路的状态，所以在晚上玩手机或者电脑的时候，基本上是不看时间了，等想起来看时间的时候，基本都是后半夜三四点了！&lt;/p&gt;
-&lt;p&gt;然后马上想着睡觉，但是那会儿是不可能马上就能进入睡眠状态的，所以导致第二天，一天是没有精神状态的</summary>
-      
-    
-    
-    
-    <category term="有感而说" scheme="https://blog.diuqi.net/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E8%AF%B4/"/>
-    
-    
-    <category term="熬夜" scheme="https://blog.diuqi.net/tags/%E7%86%AC%E5%A4%9C/"/>
     
   </entry>
   
