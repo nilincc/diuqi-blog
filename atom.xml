@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>丢弃博客</title>
+  
+  <subtitle>有些东西就算在不舍得，也要学会丢弃。</subtitle>
+  <link href="https://blog.diuqi.net/atom.xml" rel="self"/>
+  
+  <link href="https://blog.diuqi.net/"/>
+  <updated>2021-01-10T11:08:18.968Z</updated>
+  <id>https://blog.diuqi.net/</id>
+  
+  <author>
+    <name>小五</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.diuqi.net/2022/09/21/hello-world/"/>
+    <id>https://blog.diuqi.net/2022/09/21/hello-world/</id>
+    <published>2022-09-21T14:41:33.296Z</published>
+    <updated>2021-01-10T11:08:18.968Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>终于抢到华为手机了</title>
+    <link href="https://blog.diuqi.net/2022/09/18/21/"/>
+    <id>https://blog.diuqi.net/2022/09/18/21/</id>
+    <published>2022-09-18T03:49:30.000Z</published>
+    <updated>2022-09-18T04:06:59.751Z</updated>
+    
+    <content type="html"><![CDATA[<p>  话说华为自9月6日开发布会后，所介绍的华为mate50pro手机简直太好了，真心心动啊，咱也想尝试一下这个新的手机。</p><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">    <iframe src="//player.bilibili.com/player.html?aid=557773198&bvid=BV1Le4y1o7ay&cid=825516090&page=1"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div><p>但是一直就抢不到啊，感觉买这个手机简直太难了，在我持续的关注直播中终于抢到了一台mate50，只是没抢到mate50pro感觉好遗憾啊！</p><p>买华为的最新手机简直太难了！！！！！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;  话说华为自9月6日开发布会后，所介绍的华为mate50pro手机简直太好了，真心心动啊，咱也想尝试一下这个新的手机。&lt;/p&gt;
+&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-bottom: </summary>
+      
+    
+    
+    
+    <category term="有感而说" scheme="https://blog.diuqi.net/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E8%AF%B4/"/>
+    
+    
+    <category term="随笔" scheme="https://blog.diuqi.net/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>冒个泡，顺便给博客种一棵草</title>
+    <link href="https://blog.diuqi.net/2022/07/13/20/"/>
+    <id>https://blog.diuqi.net/2022/07/13/20/</id>
+    <published>2022-07-13T13:08:06.000Z</published>
+    <updated>2022-07-13T14:11:22.667Z</updated>
+    
+    <content type="html"><![CDATA[<p>自上一篇文章发布到现在好像已经半年了····</p><p>话说我的这个小本本也又半年没开机了·····醉了！！！！</p><p>刚刚把电脑里的系统和所用的软件都进行了升级！！！！小本本差点卡爆掉！也是没谁了，毕竟半年没开机了！</p><p>话说：好像这半年也没觉得时间过的很慢，好像时间的流逝刷刷的快，也许是太忙了，也许是自己太懒了！</p><p>好像我这半年没什么变化吧，每天除了吃饭和睡觉，基本上时间被我自己给自己安排的差不多，反正每天回到家，基本上都是已经累到虚脱，差不多每天都是这样吧！呵呵。</p><p>不过还好，忙点比闲下来好。</p><p>今天难得有点休闲时间，打开我这个已经有点灰尘的小本本，给自己的小博客更新一下，也算自己没忘记我还有一个小博客。🤭</p><p>最后放一首好听的歌，结束一下这颗种草的过程。</p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=28875540&auto=1&height=66"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;自上一篇文章发布到现在好像已经半年了····&lt;/p&gt;
+&lt;p&gt;话说我的这个小本本也又半年没开机了·····醉了！！！！&lt;/p&gt;
+&lt;p&gt;刚刚把电脑里的系统和所用的软件都进行了升级！！！！小本本差点卡爆掉！也是没谁了，毕竟半年没开机了！&lt;/p&gt;
+&lt;p&gt;话说：好像这半年也没觉得时间</summary>
+      
+    
+    
+    
+    <category term="有感而说" scheme="https://blog.diuqi.net/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E8%AF%B4/"/>
+    
+    
+    <category term="随笔" scheme="https://blog.diuqi.net/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>时间好快呀</title>
+    <link href="https://blog.diuqi.net/2022/02/25/19/"/>
+    <id>https://blog.diuqi.net/2022/02/25/19/</id>
+    <published>2022-02-25T12:40:58.000Z</published>
+    <updated>2022-02-25T12:48:35.556Z</updated>
+    
+    <content type="html"><![CDATA[<p>  话说时间过的好快，年前还在感慨马上要过年了，但是现在回过头来看，这不是已经过完年了么！</p><p>  今天突然发现已经<strong>正月二十五</strong>了！</p><p>  好像过春节这种节日，对于我这种年龄的人来说，无感啊！！！！</p><p>  并且感觉过春节好累······</p><p>  哎······</p><p>  时间好快，父母的白发越来越多！</p><p>  随着自己的年龄增加，感觉以前的快乐时光离自己越来越远！</p><p>  或许这就是成年人吧！</p><p>  不管怎么样，让父母过一个舒心的晚年，至于自己爱鸡巴咋样咋样吧。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;  话说时间过的好快，年前还在感慨马上要过年了，但是现在回过头来看，这不是已经过完年了么！&lt;/p&gt;
+&lt;p&gt;  今天突然发现已经&lt;strong&gt;正月二十五&lt;/strong&gt;了！&lt;/p&gt;
+&lt;p&gt;  好像过春节这种节日，对于我这种年龄的人来说，无感啊！！！！&lt;/p&gt;
+&lt;p&gt;  并</summary>
+      
+    
+    
+    
+    <category term="有感而说" scheme="https://blog.diuqi.net/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E8%AF%B4/"/>
+    
+    
+    <category term="随笔" scheme="https://blog.diuqi.net/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2022年啦</title>
+    <link href="https://blog.diuqi.net/2022/01/08/18/"/>
+    <id>https://blog.diuqi.net/2022/01/08/18/</id>
+    <published>2022-01-08T06:35:10.000Z</published>
+    <updated>2022-01-08T06:53:46.250Z</updated>
+    
+    <content type="html"><![CDATA[<p>2022年啦，时间过的真快呀。</p><p>总结一下自己2021年的365天吧，具体的我也记不太清楚了，反正2021年过的挺像一个<strong>机械</strong>的日子，几乎所有的时间都是在上班和睡觉中度过，就算偶尔有空，那也是在去往上班的路上。</p><p>2021年我等同于说是做了三份工作，不是说换工作，是每天去往三个地方打工，几乎说是每天工作的时间大概排在16个小时吧，很累很累！</p><p>当然收获也算不错的。毕竟那么累么。不像2019年那会，手里最多就几千块钱。那时候几千块钱还要过年的时候还要用。那会儿真的挺苦逼+穷逼啊，哈哈</p><p>今年手里算是有一点点的闲钱了。</p><blockquote><p>金钱真的是一个好东西，几乎能解决这个世界上99.9%的问题，</p></blockquote><hr><p>这不是马上又要年底了么，也是咱们国人统一的大节日—<strong>春节</strong></p><p>也终于可以在这个春节期间好好的休息几天了。</p><p>2022给自己加油，期待2022我兜里的人民币在翻一翻。</p><p><img src="https://cdn.jsdelivr.net/gh/by365404/img/img/2022.jpg" alt="2022年，加油"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;2022年啦，时间过的真快呀。&lt;/p&gt;
+&lt;p&gt;总结一下自己2021年的365天吧，具体的我也记不太清楚了，反正2021年过的挺像一个&lt;strong&gt;机械&lt;/strong&gt;的日子，几乎所有的时间都是在上班和睡觉中度过，就算偶尔有空，那也是在去往上班的路上。&lt;/p&gt;
+&lt;p&gt;20</summary>
+      
+    
+    
+    
+    <category term="有感而说" scheme="https://blog.diuqi.net/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E8%AF%B4/"/>
+    
+    
+    <category term="随笔" scheme="https://blog.diuqi.net/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>冒个泡</title>
+    <link href="https://blog.diuqi.net/2021/12/26/11-1/"/>
+    <id>https://blog.diuqi.net/2021/12/26/11-1/</id>
+    <published>2021-12-26T02:22:58.000Z</published>
+    <updated>2021-12-26T02:24:42.424Z</updated>
+    
+    <content type="html"><![CDATA[<p>冒个泡，看看电脑升级<strong>win11</strong>之后，hexo还能不能正常的使用</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;冒个泡，看看电脑升级&lt;strong&gt;win11&lt;/strong&gt;之后，hexo还能不能正常的使用&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="随便记录" scheme="https://blog.diuqi.net/categories/%E9%9A%8F%E4%BE%BF%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="冒泡" scheme="https://blog.diuqi.net/tags/%E5%86%92%E6%B3%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>除草日记</title>
+    <link href="https://blog.diuqi.net/2021/07/29/17/"/>
+    <id>https://blog.diuqi.net/2021/07/29/17/</id>
+    <published>2021-07-29T02:35:44.000Z</published>
+    <updated>2021-07-29T02:39:31.190Z</updated>
+    
+    <content type="html"><![CDATA[<p>话说我的这个小站点已经貌似好几个月没更新了，现在更新一下。证明我还活着，并没有忘记这个博客。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;话说我的这个小站点已经貌似好几个月没更新了，现在更新一下。证明我还活着，并没有忘记这个博客。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="随便记录" scheme="https://blog.diuqi.net/categories/%E9%9A%8F%E4%BE%BF%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="hexo" scheme="https://blog.diuqi.net/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>要想做好淘宝，必须先解决淘宝的售后问题</title>
+    <link href="https://blog.diuqi.net/2021/04/10/16/"/>
+    <id>https://blog.diuqi.net/2021/04/10/16/</id>
+    <published>2021-04-10T03:16:08.000Z</published>
+    <updated>2021-04-10T03:24:27.630Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>要想做好淘宝，必须先解决淘宝的售后问题</p></blockquote><p>因为我在淘宝里做的是《孩子骑的小车子的类目》所以我自己录制了一个安装这个小车子的教程。</p><blockquote><p>方便买家在收到快递后，解决买家不知道怎么安装这种小车子的问题。</p></blockquote><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">    <iframe src="//player.bilibili.com/player.html?aid=290026919&bvid=BV12f4y1W7ns&cid=321952629&page=1"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div><p>因为自己是第一次手机录制，以前没搞过这种东西，所以先将就着看吧。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;要想做好淘宝，必须先解决淘宝的售后问题&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;因为我在淘宝里做的是《孩子骑的小车子的类目》所以我自己录制了一个安装这个小车子的教程。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;方便买家在收到快递后，解决买家不知道怎</summary>
+      
+    
+    
+    
+    <category term="研究淘宝" scheme="https://blog.diuqi.net/categories/%E7%A0%94%E7%A9%B6%E6%B7%98%E5%AE%9D/"/>
+    
+    
+    <category term="研究淘宝" scheme="https://blog.diuqi.net/tags/%E7%A0%94%E7%A9%B6%E6%B7%98%E5%AE%9D/"/>
+    
+    <category term="售后" scheme="https://blog.diuqi.net/tags/%E5%94%AE%E5%90%8E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>淘宝店铺之我如何《补单》</title>
+    <link href="https://blog.diuqi.net/2021/03/19/15/"/>
+    <id>https://blog.diuqi.net/2021/03/19/15/</id>
+    <published>2021-03-19T14:47:00.000Z</published>
+    <updated>2021-03-19T15:09:57.309Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>相信有很多的淘宝卖家和我遇到的一样的问题，那就是淘宝有访客，但是就是没有买家下单！没有买家下单，那么我们就没办法卖出去我们的商品。</p></blockquote><p>正是因为这样的原因，所以才有了<strong>补单</strong>的说法，《PS：补单就是刷单的意思。》</p><p>我不知道别人的操作是什么样子的，但是从我的理解里，我发现淘宝的平台规则是：做为卖家的第一个步骤，或者说是第一个开店技巧就是让买家认为你的东西是<strong>可靠</strong>和<strong>可以信赖的</strong>。</p><p>并且新店开店，是几乎没有什么访客的。</p><p><strong>并不是我们把商品上传和布置好等着买家来买就完事大吉的。</strong></p><p>上面这句话绝对是重点。</p><p>所以我们的第一步基本上就是补单行为。</p><p>因为只有通过补单这个行为，你才能让买家看到别人在你的店铺里的购买记录和评价。</p><p>所以我认为开店的第一个要素就是给自己的店铺先每天来补单。并且持续一段时间，一直持续到你的商品有了评论和带图评论等等效果，才是真真正正的开始经营店铺的开始。</p><p>这是我认为的。</p><hr><p>说点我自己的糗事！！！！</p><p>以前我自己认为，就算是补单，咱自己找点人去补单，也不算多大的事，但是我忽略了一点，那就是平常在网络中聊天和玩乐的<strong>朋友</strong>大部分在面临我们补单的行为，都会产生抗拒心理。</p><p>有可能在你说出你的补单行为之后，你会发现你们之间的所谓友情，经不起这一点点的考验。</p><p>当然这个我们自己也要清楚<strong>人都是自私的</strong>，人都不愿意承担额外的意外。</p><p>所以我还明白了一点<strong>找专业的人做专业的事</strong>，这是多么的《至理名言》啊。</p><hr><p>我对淘宝店铺的理解和人性的理解就是这样，期望能帮到看到这篇文章的你。</p><p>笔芯 O(∩_∩)O</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;相信有很多的淘宝卖家和我遇到的一样的问题，那就是淘宝有访客，但是就是没有买家下单！没有买家下单，那么我们就没办法卖出去我们的商品。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;正是因为这样的原因，所以才有了&lt;strong&gt;补单&lt;/strong&gt;的说法</summary>
+      
+    
+    
+    
+    <category term="研究淘宝" scheme="https://blog.diuqi.net/categories/%E7%A0%94%E7%A9%B6%E6%B7%98%E5%AE%9D/"/>
+    
+    
+    <category term="研究淘宝" scheme="https://blog.diuqi.net/tags/%E7%A0%94%E7%A9%B6%E6%B7%98%E5%AE%9D/"/>
+    
+    <category term="补单" scheme="https://blog.diuqi.net/tags/%E8%A1%A5%E5%8D%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>淘宝详情页设计的具体思路</title>
+    <link href="https://blog.diuqi.net/2021/03/18/14/"/>
+    <id>https://blog.diuqi.net/2021/03/18/14/</id>
+    <published>2021-03-18T10:48:54.000Z</published>
+    <updated>2021-03-18T10:51:16.807Z</updated>
+    
+    <content type="html"><![CDATA[<p>淘宝详情页直接影响用户的浏览时间，一个好的详情页能够提高客户购买率，所以想要开好淘宝店的卖家一定要想办法设计一个好的淘宝详情页，下面我们来看看怎样做好淘宝详情页的设计。</p><p>1、首先要分析产品的特点，做好产品的规划，在文档上详细列出详情页的内容，然后按照规划的一一来做。</p><p>2、依据规划做出详情页，其中详情页的前三屏是比较重要的，第一屏默认是做海报，这张海报要体现产品的最大特色，然后一屏大概在700-800像素左右，宽度默认是750PX，高度不限制，但不要过长，建议在8000PX最好，基本上就是10屏的长度，前三屏直接影响浏览者是否继续观看详情页。</p><p>3、在众多卖点中找到一个最特色最主要的卖点来进行宣传，前三屏只展示最大的卖点即可，第二屏并没有什么普遍默认的，但一定要说产品的最大卖点，例如质量好，耐用等。但是要注意掩盖产品的短处，不要自我揭短。</p><p>4、产品的详细信息要写上去，比如衣服的尺寸，玻璃制品的规格，都要一一罗列上去，让买家可以一目了然，直接选择自己需要的大小，也可以做到第四屏，之前再做一屏产品最大卖点的展示。</p><p>5、前三屏展示完后就要根据产品其他的卖点，做介绍了，每一个都要根据之前的规划，把特点，优势等放到详情上，产品优势不止一两个，至少也要三四个。</p><p>6、按规划展示产品的特点，细节，内部结构等，让买家全面了解产品。这样的细节图也不止一个，比如衣服的就需要模特的侧面，背面，衣服衣领，袖口的细节图，至少要三四个，这样下来10屏就差不多用完了，还可以展示厂家实力，或是服务，买家评价等。</p><p>这样一个详情页设计基本上就完成了，再完善一下细节和淘宝主图优化等方面，抓住客户的心理来做，做详情页设计需要精通PS和拍照等技术，思路清晰基本上是没什么问题的。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;淘宝详情页直接影响用户的浏览时间，一个好的详情页能够提高客户购买率，所以想要开好淘宝店的卖家一定要想办法设计一个好的淘宝详情页，下面我们来看看怎样做好淘宝详情页的设计。&lt;/p&gt;
+&lt;p&gt;1、首先要分析产品的特点，做好产品的规划，在文档上详细列出详情页的内容，然后按照规划的一一</summary>
+      
+    
+    
+    
+    <category term="研究淘宝" scheme="https://blog.diuqi.net/categories/%E7%A0%94%E7%A9%B6%E6%B7%98%E5%AE%9D/"/>
+    
+    
+    <category term="研究淘宝" scheme="https://blog.diuqi.net/tags/%E7%A0%94%E7%A9%B6%E6%B7%98%E5%AE%9D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>认识千牛的后台操作之《店铺》</title>
+    <link href="https://blog.diuqi.net/2021/03/09/13/"/>
+    <id>https://blog.diuqi.net/2021/03/09/13/</id>
+    <published>2021-03-09T02:19:31.000Z</published>
+    <updated>2021-03-09T03:12:24.634Z</updated>
+    
+    <content type="html"><![CDATA[<p>认识一下每一个淘宝卖家自己在淘宝上管理自己宝贝的软件–<strong>千牛</strong>。</p><blockquote><p>想要在淘宝里能够混的开，基础的操作和原理，咱们是必须要去了解的—-这是我说的</p></blockquote><p>千牛卖家工作台包含了 <strong>店铺 商品 订单 营销 直播 数据 用户 成长 综合</strong> 等9大分类，所以我们要了解每一个分类所对应的功能以及我自己的理解。</p><h2 id="店铺"><a href="#店铺" class="headerlink" title="店铺"></a>店铺</h2><p>这一个分类里又有很多的小分类，但是对于我这种小C店来说很多是我根本用不上的，所以我这里只写一下我自己现在能够用的上的。</p><h3 id="店铺装修"><a href="#店铺装修" class="headerlink" title="店铺装修"></a>店铺装修</h3><p>这个就是字面上的意思。就是装修自己的店铺的。</p><h3 id="店铺基本设置"><a href="#店铺基本设置" class="headerlink" title="店铺基本设置"></a>店铺基本设置</h3><p>这个就是字面上的意思。就是设置自己的店铺的。如：<strong>店铺名称 店铺标志 店铺简介 经营地址 主要货源 店铺介绍</strong>这些都是在这里设置的。</p><h3 id="宝贝分类管理"><a href="#宝贝分类管理" class="headerlink" title="宝贝分类管理"></a>宝贝分类管理</h3><p>这个就是你自己在上传了很多商品，但是商品的属性又不一样，而宝贝分类管理就是让你整理一下自己的商品分类，方便以后的管理的。</p><h3 id="加入消保服务"><a href="#加入消保服务" class="headerlink" title="加入消保服务"></a>加入消保服务</h3><p>这个就是淘宝给予买家保障的服务，如：<a href="https://helpcenter.taobao.com/servicehall/knowledge_detail?knowledgeId=1121958" title="基础消保">基础消保</a> 7天无理由退货等等。</p><p>这个就是保障了买家可以放心买，买完发现商品有瑕疵等退货的保障。</p><hr><p>这些都是我这个小C店可以用的东西，像其他的那些是我用不到的东西。所以我也就不做说明了，毕竟我的理解也不一定全部都对。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;认识一下每一个淘宝卖家自己在淘宝上管理自己宝贝的软件–&lt;strong&gt;千牛&lt;/strong&gt;。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;想要在淘宝里能够混的开，基础的操作和原理，咱们是必须要去了解的—-这是我说的&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;千牛卖家工作台包含</summary>
+      
+    
+    
+    
+    <category term="研究淘宝" scheme="https://blog.diuqi.net/categories/%E7%A0%94%E7%A9%B6%E6%B7%98%E5%AE%9D/"/>
+    
+    
+    <category term="研究淘宝" scheme="https://blog.diuqi.net/tags/%E7%A0%94%E7%A9%B6%E6%B7%98%E5%AE%9D/"/>
+    
+    <category term="千牛" scheme="https://blog.diuqi.net/tags/%E5%8D%83%E7%89%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>悲催的我开始学习研究淘宝啦</title>
+    <link href="https://blog.diuqi.net/2021/03/08/12/"/>
+    <id>https://blog.diuqi.net/2021/03/08/12/</id>
+    <published>2021-03-08T14:52:09.000Z</published>
+    <updated>2021-03-09T02:20:31.606Z</updated>
+    
+    <content type="html"><![CDATA[<p>话说我也有一段时间没有更新我的小博客了，再不更新就快忘了还有这个博客呢。</p><blockquote><p>最近这些天一直在研究淘宝。</p></blockquote><p>正所谓在淘宝买东西的时候是相当爽的，但是如果要想在淘宝里卖东西，那这里面要学的学问可就真的太多啦！</p><p>我又是一个淘宝卖家的新手，所以记录一下自己研究淘宝的心得和体会。</p><h2 id="开店的保证金"><a href="#开店的保证金" class="headerlink" title="开店的保证金"></a>开店的保证金</h2><p>淘宝开店保证金交不交是由你自己来决定的，淘宝没有强制你必须要交保证金的。但是如果你不交保证金那么你只能发布二手宝贝，也就是说没有办法发布全新的宝贝。所以你咱还必须的交，除非咱一直卖二手货。</p><p>淘宝保证金是开店的基础，因为只有交了保证金，我们的排名在会靠前，淘宝规定交保证金的宝贝排名永远排在没有交保证金的宝贝前面，对于我们推广自己的宝贝有很大的帮助的，毕竟如果你的宝贝排名不高那么就没人能看到你，也就更别提成交了。</p><p>现在网上购物大家都怕被骗，所以如果你的店铺没有交保证金的话，那么在你的店铺是不会有保证金的标志的。淘宝保证金的目的就是防止卖家欺骗客户，把这部分保证金押在淘宝那。</p><p>淘宝保证金是可以退的，如果你不开店了你随时就可以了退了，现在都是秒退的所以你不用担心钱退不回来的问题。在这里我强调一点，非常重要，一定不要把保证金交给第三方非淘宝的人员，淘宝也不会让客户联系你缴纳，大家一定要自己在卖家中心后台缴纳。只有这一个方式，大家一定要记住，谨防上当受骗。</p><p>目前大多数类目是需要交1000元保证金的，有个别类目需要的多一些，比如2000元，3000元。这个大家可以自己发布一下想要卖的宝贝选好分类，然后试着发布一下宝贝会有提示的，会提示你这个类目需要交多少钱的保证金的。</p><blockquote><p>因为我做的是《儿童自行车》的类目，老子的保证金要交5000！我了个擦类。</p></blockquote><h2 id="淘宝类目"><a href="#淘宝类目" class="headerlink" title="淘宝类目"></a>淘宝类目</h2><p>第一步肯定是要上传自己的淘宝宝贝喽，但是淘宝又有很多的类目选项<br>，所以第一步就是要找准自己商品在淘宝对应的类目。我们在发布宝贝的时候第一步就是要选择一下淘宝宝贝的类目，那么淘宝宝贝类目是什么意思呢？在这里我把我的心得体会详细的介绍一下。</p><p>1.淘宝为了更好的去规范管理淘宝网上的宝贝，然后就会在后台给我们把产品进行一个详细的分类，比如说大的分类有生活服务类的，有教育培训类的，有数码家电类等等，然后再会给我们做更加细致的分类，这样就有助助于管理我们的产品，也就是说，我们的每一个产品在淘宝网都对应着一个非常细致的类目。我们只有把我们的宝贝放在正确的类目上才对。</p><hr><p>先记录到这里，后边等我研究研究在写！主要是这里面的学问太大了，我还消化不了那么多，再说了有的东西我还没弄懂原理，所以暂时先记录到这里了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;话说我也有一段时间没有更新我的小博客了，再不更新就快忘了还有这个博客呢。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;最近这些天一直在研究淘宝。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;正所谓在淘宝买东西的时候是相当爽的，但是如果要想在淘宝里卖东西，那这里面要学的学问可就真的</summary>
+      
+    
+    
+    
+    <category term="研究淘宝" scheme="https://blog.diuqi.net/categories/%E7%A0%94%E7%A9%B6%E6%B7%98%E5%AE%9D/"/>
+    
+    
+    <category term="研究淘宝" scheme="https://blog.diuqi.net/tags/%E7%A0%94%E7%A9%B6%E6%B7%98%E5%AE%9D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>保姆级的安装hexo</title>
+    <link href="https://blog.diuqi.net/2021/02/14/11/"/>
+    <id>https://blog.diuqi.net/2021/02/14/11/</id>
+    <published>2021-02-14T09:09:38.000Z</published>
+    <updated>2021-02-14T09:26:01.001Z</updated>
+    
+    <content type="html"><![CDATA[<p>一直想写一下hexo博客的搭建方法的，但是自己知道自己的<code>几斤几两</code>，所以也不想耽误别人和误导别人。</p><p>直到今天正好在网上看到了一位大神录制了一个保姆级的hexo博客搭建教程，我看过之后，感觉这位大神所发布的教程实在是太完整和实用了，特此引用这位大神的教程来写这一篇文章。</p><blockquote><p>大神的教程在下方哦。</p></blockquote><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">    <iframe src="//player.bilibili.com/player.html?aid=44544186&bvid=BV1Yb411a7ty&cid=158772893&page=1"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div><p>笔芯 O(∩_∩)O</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;一直想写一下hexo博客的搭建方法的，但是自己知道自己的&lt;code&gt;几斤几两&lt;/code&gt;，所以也不想耽误别人和误导别人。&lt;/p&gt;
+&lt;p&gt;直到今天正好在网上看到了一位大神录制了一个保姆级的hexo博客搭建教程，我看过之后，感觉这位大神所发布的教程实在是太完整和实用了，特此引</summary>
+      
+    
+    
+    
+    <category term="有感而说" scheme="https://blog.diuqi.net/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E8%AF%B4/"/>
+    
+    
+    <category term="hexo" scheme="https://blog.diuqi.net/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2021年的第一天</title>
+    <link href="https://blog.diuqi.net/2021/02/12/10/"/>
+    <id>https://blog.diuqi.net/2021/02/12/10/</id>
+    <published>2021-02-12T03:31:30.000Z</published>
+    <updated>2021-02-12T03:47:23.887Z</updated>
+    
+    <content type="html"><![CDATA[<p>昨个写了《<a href="https://blog.diuqi.net/2021/02/11/2020/" title="2020结束，迎接2021">2020结束，迎接2021</a>》。</p><p>今天这不是正月初一了么。因为疫情的原因，也是响应政府的号召，不拜年，不串门。就老老实实的宅在家，《本身我也属于比较宅的性格。》所以正好记录一下这难得的闲暇时光。</p><p><img src="https://cdn.jsdelivr.net/gh/by365404/img/img/2021-1.jpg"></p><p>笔芯 O(∩_∩)O</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;昨个写了《&lt;a href=&quot;https://blog.diuqi.net/2021/02/11/2020/&quot; title=&quot;2020结束，迎接2021&quot;&gt;2020结束，迎接2021&lt;/a&gt;》。&lt;/p&gt;
+&lt;p&gt;今天这不是正月初一了么。因为疫情的原因，也是响应政府的号召，不拜年</summary>
+      
+    
+    
+    
+    <category term="有感而说" scheme="https://blog.diuqi.net/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E8%AF%B4/"/>
+    
+    
+    <category term="随笔" scheme="https://blog.diuqi.net/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020结束，迎接2021</title>
+    <link href="https://blog.diuqi.net/2021/02/11/2020/"/>
+    <id>https://blog.diuqi.net/2021/02/11/2020/</id>
+    <published>2021-02-11T08:51:56.000Z</published>
+    <updated>2021-02-11T09:26:01.576Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>今天是2020年的最后一天了，俗称： <strong>年三十了</strong> 。</p></blockquote><h2 id="回忆一下今年都干了啥！"><a href="#回忆一下今年都干了啥！" class="headerlink" title="回忆一下今年都干了啥！"></a>回忆一下今年都干了啥！</h2><p>今年这一年中我到底干了啥呢？其实现在想想，也不知道自己干了啥！貌似就这样糊糊涂涂的过了一年了！《___时间真的好快！一晃眼的功夫，已经过了一年了。___》</p><p>自己也确实在这一年中没做什么太出格的事情，当然也没有过的那么清闲，总是忙忙碌碌的，就好像每天都在重复一天的<strong>吃饭 工作 睡觉</strong>的状态下浑浑噩噩的。</p><p>确实在这个2020一年当中，我个人的感觉就是这么浑浑噩噩的，脑子也基本不记事，同时对于我个人而言，在2019年的时候给自己定的目标也就是多多的赚钱，只有这么一个目标。</p><p>不过这一年中我个人感觉这个赚钱的目标还算是可以吧，基本上和2019年的目标来说算是差不多吧！毕竟也差不了多少银子就够那个数了。</p><h2 id="对于2021的期待是什么？"><a href="#对于2021的期待是什么？" class="headerlink" title="对于2021的期待是什么？"></a>对于2021的期待是什么？</h2><h3 id="赚钱"><a href="#赚钱" class="headerlink" title="赚钱"></a>赚钱</h3><p>呵呵，其实也没什么期待！不过还是这个目标。<strong>赚钱  赚钱  赚钱</strong>重要的事情说三遍。</p><h3 id="父母的良苦用心"><a href="#父母的良苦用心" class="headerlink" title="父母的良苦用心"></a>父母的良苦用心</h3><p>还有一个期待就是：如今咱也不小了，父母的年龄越来越大，父母的以后是需要我来承担的。《其实是希望父母不要总想着给我省点钱，然后告诉我，万一我那天用到了。拿起来方便。》</p><p>对于我的父母来说，他们总感觉我还是一个长不大的孩子，这种心理，我怎么会不明白他们的良苦用心呢。</p><h3 id="孩子的快乐童年"><a href="#孩子的快乐童年" class="headerlink" title="孩子的快乐童年"></a>孩子的快乐童年</h3><p>2020年对于我家孩子来说，我个人感觉算是可以的，别人有的，我家孩子也有，别人没有的我也差不多能给的出来，总体来说，比上不足，比下有余。</p><p>可以算是一个快乐的童年。</p><p>2021年最期待的：让父母开心，孩子快乐，然后就是多多的赚钱。</p><hr><p>2021我准备好了，我迎接你来。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;今天是2020年的最后一天了，俗称： &lt;strong&gt;年三十了&lt;/strong&gt; 。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;回忆一下今年都干了啥！&quot;&gt;&lt;a href=&quot;#回忆一下今年都干了啥！&quot; class=&quot;headerlink&quot; </summary>
+      
+    
+    
+    
+    <category term="有感而说" scheme="https://blog.diuqi.net/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E8%AF%B4/"/>
+    
+    
+    <category term="随笔" scheme="https://blog.diuqi.net/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo删除插件的命令与使用办法</title>
+    <link href="https://blog.diuqi.net/2021/01/29/9/"/>
+    <id>https://blog.diuqi.net/2021/01/29/9/</id>
+    <published>2021-01-29T13:13:56.000Z</published>
+    <updated>2021-01-29T13:27:54.793Z</updated>
+    
+    <content type="html"><![CDATA[<p>因为有时候在捣鼓hexo的时候会安装一些想要的《hexo插件》，但是有时候安装的插件会和自己所用的hexo起冲突。</p><p>然后自己在执行hexo命令的时候，会出现一堆报错信息。</p><p>所以有时候需要删除一些自己安装的hexo插件，首先执行命令：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm list</span><br></pre></td></tr></table></figure><p>随后执行</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm uninstall 《你插件的名字》</span><br></pre></td></tr></table></figure><p>删除相关配置和文件</p><p>配置文件中有PLugins模块，删除对应的插件设置；</p><p>删除 node_modules/ 目录下对应的插件文件。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;因为有时候在捣鼓hexo的时候会安装一些想要的《hexo插件》，但是有时候安装的插件会和自己所用的hexo起冲突。&lt;/p&gt;
+&lt;p&gt;然后自己在执行hexo命令的时候，会出现一堆报错信息。&lt;/p&gt;
+&lt;p&gt;所以有时候需要删除一些自己安装的hexo插件，首先执行命令：&lt;/p&gt;
+&lt;f</summary>
+      
+    
+    
+    
+    <category term="有感而说" scheme="https://blog.diuqi.net/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E8%AF%B4/"/>
+    
+    
+    <category term="hexo插件" scheme="https://blog.diuqi.net/tags/hexo%E6%8F%92%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我给我的域名续了两年的命</title>
+    <link href="https://blog.diuqi.net/2021/01/15/8/"/>
+    <id>https://blog.diuqi.net/2021/01/15/8/</id>
+    <published>2021-01-15T02:17:29.000Z</published>
+    <updated>2021-01-29T13:10:06.089Z</updated>
+    
+    <content type="html"><![CDATA[<p>话说昨晚上看到一群里说：有腾讯云的羊毛可以薅，并且几乎是全场景的续费代金卷，足足100元哦。</p><p>所以哥们顺手就加入了薅羊毛的队伍。手气不错薅了一张，附图：</p><p><img src="https://cdn.jsdelivr.net/gh/by365404/img/img/haoyangmao.jpg" alt="我给我的域名续了两年的命"></p><p>话说昨晚上还在纠结到底买啥呢！</p><p>今天正好看看域名的到期时间，看着.net的续费竟然68一年，总感觉有那么一点小贵。</p><p>本着能省一点是一点的心态，直接续费得了。</p><p>这样就等于续年费68的域名，哥们36买的两年使用权。</p><p>毕竟这玩意儿以后说不准就没了，能赶上也算是运气不错哈。</p><p><img src="https://cdn.jsdelivr.net/gh/by365404/img/img/haoyangmao1.jpg" alt="我给我的域名续了两年的命"></p><p><img src="https://cdn.jsdelivr.net/gh/by365404/img/img/haoyangmao2.jpg" alt="我给我的域名续了两年的命"></p><p>哇咔咔~~~</p><p>O(∩_∩)O</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;话说昨晚上看到一群里说：有腾讯云的羊毛可以薅，并且几乎是全场景的续费代金卷，足足100元哦。&lt;/p&gt;
+&lt;p&gt;所以哥们顺手就加入了薅羊毛的队伍。手气不错薅了一张，附图：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/by365404</summary>
+      
+    
+    
+    
+    <category term="有感而说" scheme="https://blog.diuqi.net/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E8%AF%B4/"/>
+    
+    
+    <category term="域名" scheme="https://blog.diuqi.net/tags/%E5%9F%9F%E5%90%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>初识docsify</title>
+    <link href="https://blog.diuqi.net/2021/01/11/docsify/"/>
+    <id>https://blog.diuqi.net/2021/01/11/docsify/</id>
+    <published>2021-01-11T09:25:52.000Z</published>
+    <updated>2021-01-11T10:15:08.769Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天发现一个非常不错的玩意儿，《<strong>docsify</strong>》</p><p>这玩意就是一个可以建立一个文档网站的工具，特别的适合建立一个帮助功能的页面。</p><p>正好最近我也在找这方面的东西，所以看到它的第一眼，我就认定是它了。</p><p>奥力给。</p><h2 id="docsify-是什么"><a href="#docsify-是什么" class="headerlink" title="docsify 是什么"></a>docsify 是什么</h2><blockquote><p>官方的描述是这样子的：一个神奇的文档网站生成工具</p></blockquote><p>docsify 是一个动态生成文档网站的工具。不同于 GitBook、Hexo 的地方是它不会生成将 .md 转成 .html 文件，所有转换工作都是在运行时进行。这将非常实用，如果只是需要快速的搭建一个小型的文档网站，或者不想因为生成的一堆 .html 文件「污染」commit 记录，只需要创建一个 index.html 就可以开始写文档而且直接部署在 GitHub Pages。</p><hr><p>话说我也是在一个大神的博文中看到的，《一定要给大神一个赞，不然我还真的要花费一番功夫去寻找了》在此要感谢《<a href="http://www.itwanger.com/java/2020/11/20/docsify.html" title="沉默王二">沉默王二</a>》</p><p>具体的介绍请查看<a href="http://www.itwanger.com/java/2020/11/20/docsify.html">http://www.itwanger.com/java/2020/11/20/docsify.html</a></p><p>这是这位大神的博文。</p><p>这是我按照大神的操作做出来的效果：</p><p><a href="https://diuqi.gitee.io/docsify/docs/">https://diuqi.gitee.io/docsify/docs/</a></p><hr><p>还是要感谢一下《<a href="http://www.itwanger.com/java/2020/11/20/docsify.html" title="沉默王二">沉默王二</a>》这位大神的，不然就算我这个初中没上完的人要找一些这方面的资料，还是有相当多的困难的。</p><p>笔芯</p><p>O(∩_∩)O</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天发现一个非常不错的玩意儿，《&lt;strong&gt;docsify&lt;/strong&gt;》&lt;/p&gt;
+&lt;p&gt;这玩意就是一个可以建立一个文档网站的工具，特别的适合建立一个帮助功能的页面。&lt;/p&gt;
+&lt;p&gt;正好最近我也在找这方面的东西，所以看到它的第一眼，我就认定是它了。&lt;/p&gt;
+&lt;p&gt;奥</summary>
+      
+    
+    
+    
+    <category term="有感而说" scheme="https://blog.diuqi.net/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E8%AF%B4/"/>
+    
+    
+    <category term="docsify" scheme="https://blog.diuqi.net/tags/docsify/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我也拥有自己的Gravatar头像了</title>
+    <link href="https://blog.diuqi.net/2021/01/10/7/"/>
+    <id>https://blog.diuqi.net/2021/01/10/7/</id>
+    <published>2021-01-10T06:48:44.000Z</published>
+    <updated>2021-01-10T07:07:15.815Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Gravatar简介"><a href="#Gravatar简介" class="headerlink" title="Gravatar简介"></a>Gravatar简介</h2><blockquote><p>Gravatar是Globally Recognized Avatar的缩写,是gravatar推出的一项服务，意为“全球通用头像”。如果在Gravatar的服务器上放置了你自己的头像，那么在任何支持Gravatar的blog或者留言本上留言时，只要提供你与这个头像关联的email地址，就能够显示出你的Gravatar头像。</p></blockquote><p>我们在很多博客或者网站留言，评论的时候会看到有的人头像很酷很个性化，但是这个博客和网站本身并没有提供设置头像的功能，感觉有点神奇，那么是怎么做到的呢？其实这是使用了Gravatar。</p><p>Gravatar的概念首先是在国外的独立WordPress博客中兴起的，当你到任何一个支持Gravatar的网站留言时，这个网站都会根据你所提供的Email地址为你显示出匹配的头像。当然，这个头像，是需要你事先到Gravatar的网站注册并上传的，否则，在这个网站上，就只会显示成一个默认的头像。</p><hr><p>事情起因也是因为我在别人的博客留言的时候，发现了别人的留言都有一个非常酷的头像，但是我的留言就没有，所以几经搜索和各种百度，总算是找到方法了。</p><p>方法就是在 <strong><a href="http://www.gravatar.com/">www.gravatar.com</a></strong>里注册一个账户，并且上传一张自己的头像图片。</p><p>具体方法可自行百度哈。我就不在我的博文中写了，毕竟这个是一个烂大街的方法了，</p><p>当然如果你有幸看到我这里的文章，那我就告诉你我在那里找到的方法。</p><blockquote><p><a href="https://blog.csdn.net/chileique7275/article/details/100855527?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-7.control&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-7.control">https://blog.csdn.net/chileique7275/article/details/100855527?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-7.control&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-7.control</a></p></blockquote><hr><p>看看效果哈，</p><p><img src="https://cdn.jsdelivr.net/gh/by365404/img/img/tx.jpg" alt="我也拥有自己的Gravatar头像了"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Gravatar简介&quot;&gt;&lt;a href=&quot;#Gravatar简介&quot; class=&quot;headerlink&quot; title=&quot;Gravatar简介&quot;&gt;&lt;/a&gt;Gravatar简介&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;Gravatar是Globally Recogni</summary>
+      
+    
+    
+    
+    <category term="有感而说" scheme="https://blog.diuqi.net/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E8%AF%B4/"/>
+    
+    
+    <category term="Gravatar头像" scheme="https://blog.diuqi.net/tags/Gravatar%E5%A4%B4%E5%83%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>熬夜带给我的体验</title>
+    <link href="https://blog.diuqi.net/2021/01/09/6/"/>
+    <id>https://blog.diuqi.net/2021/01/09/6/</id>
+    <published>2021-01-09T06:50:58.000Z</published>
+    <updated>2021-01-09T07:03:06.164Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近因为新馆肺炎的疫情，基本上让我找到了年初那会封村封路的状态，所以在晚上玩手机或者电脑的时候，基本上是不看时间了，等想起来看时间的时候，基本都是后半夜三四点了！</p><p>然后马上想着睡觉，但是那会儿是不可能马上就能进入睡眠状态的，所以导致第二天，一天是没有精神状态的，就是那种浑浑噩噩的感觉，对任何事情都提不起精神来了，并且对任何事也表现的提不起兴趣来了。</p><p>这种感觉简直是太难受了！！！！</p><blockquote><p>从今晚上起一定要早睡早起，不然面对任何事情都没有精神状态了。</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;最近因为新馆肺炎的疫情，基本上让我找到了年初那会封村封路的状态，所以在晚上玩手机或者电脑的时候，基本上是不看时间了，等想起来看时间的时候，基本都是后半夜三四点了！&lt;/p&gt;
+&lt;p&gt;然后马上想着睡觉，但是那会儿是不可能马上就能进入睡眠状态的，所以导致第二天，一天是没有精神状态的</summary>
+      
+    
+    
+    
+    <category term="有感而说" scheme="https://blog.diuqi.net/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E8%AF%B4/"/>
+    
+    
+    <category term="熬夜" scheme="https://blog.diuqi.net/tags/%E7%86%AC%E5%A4%9C/"/>
+    
+  </entry>
+  
+</feed>
