@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>重新又找了一个图床</title>
+      <link href="/2022/10/17/23/"/>
+      <url>/2022/10/17/23/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>话说我发现以前的图片没了，就是博客里之前的图片都没了。</p><p>现在又找了一个图床不过还是使用的是GitHub的图床，测试一下这个图床吧，期望这个能长久一点，毕竟为了一点点的图片不值得在买一些储存的服务了。</p><p>测试图片；<br><img src="https://cdn.staticaly.com/gh/nilincc/diuqi-img@master/img20200824161216_62391.jpeg"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 有感而说 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>重装了电脑系统又重新安装了hexo</title>
       <link href="/2022/09/22/22/"/>
       <url>/2022/09/22/22/</url>

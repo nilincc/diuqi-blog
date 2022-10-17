@@ -6,7 +6,7 @@
   <link href="https://blog.diuqi.net/atom.xml" rel="self"/>
   
   <link href="https://blog.diuqi.net/"/>
-  <updated>2022-09-22T15:51:29.553Z</updated>
+  <updated>2022-10-17T13:51:36.170Z</updated>
   <id>https://blog.diuqi.net/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>重新又找了一个图床</title>
+    <link href="https://blog.diuqi.net/2022/10/17/23/"/>
+    <id>https://blog.diuqi.net/2022/10/17/23/</id>
+    <published>2022-10-17T13:42:27.000Z</published>
+    <updated>2022-10-17T13:51:36.170Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>话说我发现以前的图片没了，就是博客里之前的图片都没了。</p><p>现在又找了一个图床不过还是使用的是GitHub的图床，测试一下这个图床吧，期望这个能长久一点，毕竟为了一点点的图片不值得在买一些储存的服务了。</p><p>测试图片；<br><img src="https://cdn.staticaly.com/gh/nilincc/diuqi-img@master/img20200824161216_62391.jpeg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="有感而说" scheme="https://blog.diuqi.net/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E8%AF%B4/"/>
+    
+    
+    <category term="随笔" scheme="https://blog.diuqi.net/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>重装了电脑系统又重新安装了hexo</title>
@@ -512,31 +536,6 @@
     
     
     <category term="docsify" scheme="https://blog.diuqi.net/tags/docsify/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我也拥有自己的Gravatar头像了</title>
-    <link href="https://blog.diuqi.net/2021/01/10/7/"/>
-    <id>https://blog.diuqi.net/2021/01/10/7/</id>
-    <published>2021-01-10T06:48:44.000Z</published>
-    <updated>2021-01-10T07:07:15.815Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Gravatar简介"><a href="#Gravatar简介" class="headerlink" title="Gravatar简介"></a>Gravatar简介</h2><blockquote><p>Gravatar是Globally Recognized Avatar的缩写,是gravatar推出的一项服务，意为“全球通用头像”。如果在Gravatar的服务器上放置了你自己的头像，那么在任何支持Gravatar的blog或者留言本上留言时，只要提供你与这个头像关联的email地址，就能够显示出你的Gravatar头像。</p></blockquote><p>我们在很多博客或者网站留言，评论的时候会看到有的人头像很酷很个性化，但是这个博客和网站本身并没有提供设置头像的功能，感觉有点神奇，那么是怎么做到的呢？其实这是使用了Gravatar。</p><p>Gravatar的概念首先是在国外的独立WordPress博客中兴起的，当你到任何一个支持Gravatar的网站留言时，这个网站都会根据你所提供的Email地址为你显示出匹配的头像。当然，这个头像，是需要你事先到Gravatar的网站注册并上传的，否则，在这个网站上，就只会显示成一个默认的头像。</p><hr><p>事情起因也是因为我在别人的博客留言的时候，发现了别人的留言都有一个非常酷的头像，但是我的留言就没有，所以几经搜索和各种百度，总算是找到方法了。</p><p>方法就是在 <strong><a href="http://www.gravatar.com/">www.gravatar.com</a></strong>里注册一个账户，并且上传一张自己的头像图片。</p><p>具体方法可自行百度哈。我就不在我的博文中写了，毕竟这个是一个烂大街的方法了，</p><p>当然如果你有幸看到我这里的文章，那我就告诉你我在那里找到的方法。</p><blockquote><p><a href="https://blog.csdn.net/chileique7275/article/details/100855527?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-7.control&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-7.control">https://blog.csdn.net/chileique7275/article/details/100855527?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-7.control&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-7.control</a></p></blockquote><hr><p>看看效果哈，</p><p><img src="https://cdn.jsdelivr.net/gh/by365404/img/img/tx.jpg" alt="我也拥有自己的Gravatar头像了"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;Gravatar简介&quot;&gt;&lt;a href=&quot;#Gravatar简介&quot; class=&quot;headerlink&quot; title=&quot;Gravatar简介&quot;&gt;&lt;/a&gt;Gravatar简介&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;Gravatar是Globally Recogni</summary>
-      
-    
-    
-    
-    <category term="有感而说" scheme="https://blog.diuqi.net/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E8%AF%B4/"/>
-    
-    
-    <category term="Gravatar头像" scheme="https://blog.diuqi.net/tags/Gravatar%E5%A4%B4%E5%83%8F/"/>
     
   </entry>
   
