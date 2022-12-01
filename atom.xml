@@ -6,7 +6,7 @@
   <link href="https://blog.diuqi.net/atom.xml" rel="self"/>
   
   <link href="https://blog.diuqi.net/"/>
-  <updated>2022-10-17T13:51:36.170Z</updated>
+  <updated>2022-12-01T13:50:01.830Z</updated>
   <id>https://blog.diuqi.net/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>水一篇吧</title>
+    <link href="https://blog.diuqi.net/2022/12/01/24/"/>
+    <id>https://blog.diuqi.net/2022/12/01/24/</id>
+    <published>2022-12-01T13:42:49.000Z</published>
+    <updated>2022-12-01T13:50:01.830Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>  最近还在在用电脑上网课，所以电脑已经不属于我个人的私人物品了。</p><p>也不知道是什么原因，疫情就是不断地增加，网上说是因为疫苗造假，也有说是各方面的原因，反正现在孩子就在家上网课！</p><p>孩子在家上网课这个是一个无法忽视的状态。简直是让人崩溃。</p><p>哎。疫情啥时候是个头啊！</p><p><img src="https://cdn.staticaly.com/gh/nilincc/diuqi-img@master/img7E9E20E8-DD9E-48f9-A28D-B9B41384374D.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="有感而说" scheme="https://blog.diuqi.net/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E8%AF%B4/"/>
+    
+    
+    <category term="随笔" scheme="https://blog.diuqi.net/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>重新又找了一个图床</title>
@@ -509,33 +533,6 @@
     
     
     <category term="域名" scheme="https://blog.diuqi.net/tags/%E5%9F%9F%E5%90%8D/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>初识docsify</title>
-    <link href="https://blog.diuqi.net/2021/01/11/docsify/"/>
-    <id>https://blog.diuqi.net/2021/01/11/docsify/</id>
-    <published>2021-01-11T09:25:52.000Z</published>
-    <updated>2021-01-11T10:15:08.769Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天发现一个非常不错的玩意儿，《<strong>docsify</strong>》</p><p>这玩意就是一个可以建立一个文档网站的工具，特别的适合建立一个帮助功能的页面。</p><p>正好最近我也在找这方面的东西，所以看到它的第一眼，我就认定是它了。</p><p>奥力给。</p><h2 id="docsify-是什么"><a href="#docsify-是什么" class="headerlink" title="docsify 是什么"></a>docsify 是什么</h2><blockquote><p>官方的描述是这样子的：一个神奇的文档网站生成工具</p></blockquote><p>docsify 是一个动态生成文档网站的工具。不同于 GitBook、Hexo 的地方是它不会生成将 .md 转成 .html 文件，所有转换工作都是在运行时进行。这将非常实用，如果只是需要快速的搭建一个小型的文档网站，或者不想因为生成的一堆 .html 文件「污染」commit 记录，只需要创建一个 index.html 就可以开始写文档而且直接部署在 GitHub Pages。</p><hr><p>话说我也是在一个大神的博文中看到的，《一定要给大神一个赞，不然我还真的要花费一番功夫去寻找了》在此要感谢《<a href="http://www.itwanger.com/java/2020/11/20/docsify.html" title="沉默王二">沉默王二</a>》</p><p>具体的介绍请查看<a href="http://www.itwanger.com/java/2020/11/20/docsify.html">http://www.itwanger.com/java/2020/11/20/docsify.html</a></p><p>这是这位大神的博文。</p><p>这是我按照大神的操作做出来的效果：</p><p><a href="https://diuqi.gitee.io/docsify/docs/">https://diuqi.gitee.io/docsify/docs/</a></p><hr><p>还是要感谢一下《<a href="http://www.itwanger.com/java/2020/11/20/docsify.html" title="沉默王二">沉默王二</a>》这位大神的，不然就算我这个初中没上完的人要找一些这方面的资料，还是有相当多的困难的。</p><p>笔芯</p><p>O(∩_∩)O</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;今天发现一个非常不错的玩意儿，《&lt;strong&gt;docsify&lt;/strong&gt;》&lt;/p&gt;
-&lt;p&gt;这玩意就是一个可以建立一个文档网站的工具，特别的适合建立一个帮助功能的页面。&lt;/p&gt;
-&lt;p&gt;正好最近我也在找这方面的东西，所以看到它的第一眼，我就认定是它了。&lt;/p&gt;
-&lt;p&gt;奥</summary>
-      
-    
-    
-    
-    <category term="有感而说" scheme="https://blog.diuqi.net/categories/%E6%9C%89%E6%84%9F%E8%80%8C%E8%AF%B4/"/>
-    
-    
-    <category term="docsify" scheme="https://blog.diuqi.net/tags/docsify/"/>
     
   </entry>
   
